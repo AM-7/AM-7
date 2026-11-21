@@ -1,27 +1,20 @@
-### Hi there 👋, my name is Ajay Mathur
-#### I am an Application Developer
-![I am an Application Developer](https://github.com/AM-7/AM-7/blob/main/ezgif.com-gif-maker.gif)
+# Ajay Mathur
 
-I am currently leaning native android development and making projects using java and kotlin.
+**Software Engineer at Compro Technologies · Full-stack web development**
 
-Skills: Java / Kotlin / Android
+I build and ship production features for a K–12 learning platform using TypeScript, Vue, Nuxt, Node.js, PostgreSQL, and AWS.
 
-- 🔭 I’m currently working on A drawing app (A basic clone of paint) 
-- 📫 How to reach me: Mail - ajaymathur850@gmail.com, Linked In- https://www.linkedin.com/in/ajay-mathur-812568227/ 
+## What I work on
 
+- Own features end to end, including student attendance, transcript generation, and course workflows.
+- Contribute to a platform migration that moves shared domain services and typed clients into reusable application and backend frameworks.
+- Integrate application features with event-driven PostgreSQL projections for faster reads.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AM-7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ajay-mathur-812568227//)  
+## Selected projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AM-7)](https://github.com/ryo-ma/github-profile-trophy)
+- **Gradpath** — Built features end to end using Vue, Nuxt, TypeScript, Tailwind CSS, and Node.js. Designed event-driven data processing workflows that integrate DynamoDB and Amazon S3.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-7)](https://github.com/anuraghazra/github-readme-stats)
+- **Customer Satisfaction Survey** — Built a MERN application during my internship at GAIL (India) to collect customer feedback and calculate the Customer Satisfaction Index. I implemented authentication, survey tooling, and the index calculation. [Repository](https://github.com/AM-7/customer-satisfaction-survey)
+- **Offline Form** — Contributed to an Android survey app designed for offline fieldwork. I built the UI and modeled local data using Kotlin and Room. [Repository](https://github.com/prathamk22/offline-form)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AM-7&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AM-7)  
-
-![GitHub metrics](https://metrics.lecoq.io/AM-7)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AM-7)  
-
-![Profile views](https://gpvc.arturio.dev/AM-7)  
+[LinkedIn](https://www.linkedin.com/in/ajay-mathur-/)
